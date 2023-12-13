@@ -1,0 +1,414 @@
+/* ==============================FIRST============================ */
+
+.first{
+    padding-top: 207px;
+}
+.first-subtitle {
+    color: #36187D;
+    font-size: 27.2px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40.8px; /* 150% */
+    margin-bottom: 30px;
+}
+.first-row {
+    display: flex;
+    align-items: center;
+    
+}
+.first-left {
+    max-width: 475px ;
+    color: #0196E3;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70.4px; /* 110% */
+    border-right: 3px solid #0196E3;
+    margin-right: 78px;
+}
+.first-right {
+    color: #331972;
+    font-size: 19.2px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26.8px; /* 139.583% */
+    letter-spacing: -0.48px;
+    max-width: 466px;
+}
+.fisrt-btn{
+    margin-top: 123px;
+}
+.fisrt-btn__link {
+  color: #0196E3;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70.4px; /* 391.111% */
+  border-radius: 48px;
+  background: rgba(255, 255, 255, 0.00);
+  box-shadow: -8px -8px 16px 0px #FFF, 9.6px 9.6px 19.2px 0px #D2DCE9;
+  padding: 13px 112px 13px 112px;
+  text-align: center;
+  position: relative;
+  margin-top: 123px;
+}
+
+.fisrt-btn__link::after {
+  content: "";
+  position: absolute;
+  align-items: center;
+  width: 31px;
+  height: 19px;
+  background: url("/images/first/Vector.svg") ;
+  top: 15px;
+  left: 280px;
+}
+/* ==============================FIRST-END============================ */
+
+
+/* ==============================DO============================ */
+h1 {
+    
+}
+.do {
+    padding-top: 80px;
+    padding-bottom: 18.19px;
+}
+
+.do-title {
+    text-align: center;
+    margin-bottom: 13px;
+}
+
+.do-text {
+    text-align: center;
+    margin-bottom: 52.19px;
+}
+.do-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.do-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 48px;
+    background: rgba(255, 255, 255, 0.00);
+    box-shadow: -8px -8px 16px 0px #FFF, 9.6px 9.6px 19.2px 0px #D2DCE9;
+    padding: 58.81px 28.99px 66.58px 29.67px;
+    margin-bottom: 66.42px;
+}
+.do-card__img{
+    margin-bottom: 36px;
+}
+.do-card__title {
+    margin-bottom: 27px;
+}
+.do-card__text {
+    width: 268px;
+    text-align: center;
+}
+
+.do {
+    padding-top: 80px;
+    padding-bottom: 18.19px;
+}
+
+.do-title {
+    text-align: center;
+    margin-bottom: 13px;
+}
+
+.do-text {
+    text-align: center;
+    margin-bottom: 52.19px;
+}
+.do-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.do-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 48px;
+    background: rgba(255, 255, 255, 0.00);
+    box-shadow: -8px -8px 16px 0px #FFF, 9.6px 9.6px 19.2px 0px #D2DCE9;
+    padding: 58.81px 28.99px 66.58px 29.67px;
+    margin-bottom: 66.42px;
+}
+.do-card__img{
+    margin-bottom: 36px;
+}
+.do-card__title {
+    margin-bottom: 27px;
+}
+.do-card__text {
+    width: 268px;
+    text-align: center;
+}
+/* =================================WHAT================================ */
+.what {
+    padding-top: 92px;
+    padding-bottom: 47px;
+}
+.what-title{
+color: #36187D;
+text-align: center;
+font-family: Bellota Text;
+font-size: 44.8px;
+font-style: normal;
+font-weight: 700;
+line-height: 49.28px; /* 110% */
+margin-bottom: 61px;
+}
+.swiper-slide{
+    margin: 0;
+}
+
+.swiper-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.what-slider__card {
+display: flex;
+width: 538px;
+padding: 16px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+border-radius: 48px;
+background: #F2F3F7;
+box-shadow: -8px -8px 16px 0px #FFF, 9.6px 9.6px 19.2px 0px #D2DCE9;
+}
+.what-slider__card__img {
+    margin-bottom: 60px;
+}
+.what-slider__card__title {
+    color: #36187D;
+font-family: Bellota Text;
+font-size: 27.2px;
+font-style: normal;
+font-weight: 700;
+line-height: 40.8px; /* 150% */
+margin-bottom: 25px;
+ }
+.what-slider__card__text {
+    color: #36187D;
+font-family: Bellota Text;
+font-size: 17.6px;
+font-style: normal;
+font-weight: 700;
+line-height: 26.4px; /* 150% */
+margin-bottom: 25px;
+}
+.what-slider__card__link {
+    color: #0196E3;
+font-family: Bellota Text;
+font-size: 19.2px;
+font-style: normal;
+font-weight: 700;
+line-height: 28.8px; /* 150% */
+}
+
+
+/* ==============================QUESTION============================ */
+
+.quest {
+    padding-top: 48px;
+    padding-bottom: 32px;
+}
+
+.quest-title {
+    margin-bottom: 45.26px;
+}
+.quest-items {
+}
+.quest-item {
+    margin-left: 32px;
+    margin-right: 32px;
+    cursor: pointer;
+
+}
+.quest-item__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 54px;
+    border-radius: 48px;
+    background: rgba(255, 255, 255, 0.00);
+    box-shadow: -8px -8px 16px 0px #FFF, 9.6px 9.6px 19.2px 0px #D2DCE9;
+    padding: 32px;
+}
+
+
+.quest-item__arrow-active {
+    transform: rotate(180deg);
+}
+
+.quest-item__text {
+    display: none;
+    margin-bottom: 56px;
+   margin-left: 64px;
+   margin-right: 64px;
+ 
+}
+.quest-item__text-active {
+    display: block;
+    
+}
+
+/* ==============================QUESTION END============================ */
+/* ==============================CLIENTS============================ */
+
+.clients {
+    padding-top: 96px;
+    padding-bottom: 48px;
+}
+
+.clients-title {
+    margin-bottom: 45.27px;
+}
+.clients-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 48px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+.client-image {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+/* ==============================CLIENTS END============================ */
+
+/* ==============================CONTACTS============================ */
+
+.contacts {
+    padding: 96px 0;
+}
+
+.contacts-bigTitle {
+    margin-bottom: 4.39px;
+}
+
+.contacts-text {
+    margin-bottom: 50.8px;
+    text-align: center;
+}
+.contacts-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contacts-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 48px;
+    padding-bottom: 50.8px;
+    width: 326.6px;
+    border-radius: 48px;
+    background: rgba(255, 255, 255, 0.00);
+    box-shadow: -8px -8px 16px 0px #FFF, 9.6px 9.6px 19.2px 0px #D2DCE9;
+}
+.contacts-item__image {
+    
+    margin-bottom: 27px;
+    width: 64px;
+    height: 64px;
+}
+.contacts-item__title {
+    margin-bottom: 16.79px;
+    color: #36187D;
+    font-family: Bellota Text;
+    font-size: 27.2px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40.8px;
+}
+.contacts-item__text {
+    color: #6C758F;
+
+text-align: center;
+font-family: Bellota Text;
+font-size: 19.2px;
+font-style: normal;
+font-weight: 700;
+line-height: 28.8px;
+}
+
+/* ==============================CONTACTS END============================ */
+
+
+
+
+
+
+/* ==============================FEEDBACK============================ */
+
+.feedback {
+    padding: 60px 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 272px;
+}
+
+.feedback-title {
+    margin-bottom: 30px;    
+}
+.feedback-text {
+    margin-bottom: 40px;
+    max-width: 745px;
+    text-align: center;
+    letter-spacing: 0.96px;
+}
+.feedback-form {
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.feedback-form__input {
+    width: 538px;
+    height: 70px;
+    margin-bottom: 23px;
+    color: #36187D;
+    font-size: 17.6px;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 48px;
+    background: #EDEFF3;
+    box-shadow: 1px 1px 2px 0px #D2DCE9 inset;
+    padding: 24px 32px;
+
+}
+
+.feedback-form__input::placeholder {
+    color: #36187D;
+    font-size: 17.6px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.feedback-submit {
+    width: 180.02px;
+    color: #FFF;
+    font-size: 19.2px;
+    line-height: 28.8px;
+    border-radius: 32px;
+    border: 1px solid #35B8FC;
+    background: #35B8FC;
+    padding: 18px 30px 19px 29px;
+}
+
+/* ==============================FEEDBACK END============================ */
